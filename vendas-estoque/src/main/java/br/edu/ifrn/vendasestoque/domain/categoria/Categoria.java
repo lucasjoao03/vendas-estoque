@@ -9,6 +9,7 @@ import lombok.EqualsAndHashCode;
 import lombok.Getter;
 import lombok.NoArgsConstructor;
 
+
 @Entity(name = "categoria")
 @Getter
 @AllArgsConstructor
